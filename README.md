@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahul-7323
 - 👀 I’m interested in software engineering and application development
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning Flask and Flutter
 - 💞️ I’m looking to collaborate on web application projects
 - 📫 How to reach me, email : roboto7o32oo3@gmail.com
 
