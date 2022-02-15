@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rahul-7323
-- 👀 I’m interested in software engineering and application development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on web application projects
+- 👀 I’m interested in Full Stack Development and Machine Learning
+- 🌱 I’m currently learning VueJS
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me, email : roboto7o32oo3@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-7323&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
