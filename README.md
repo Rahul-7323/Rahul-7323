@@ -4,15 +4,8 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me, email : roboto7o32oo3@gmail.com
 
-<style>
-  .container {
-    display: flex;
-    flex-flow: row nowrap;
-    gap: 10px;
-  }
-</style>
 
-<div class="container">
+<div style="display: flex; flex-flow: row nowrap; gap: 10px">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Rahul-7323&count_private=true&theme=tokyonight&show_icons=true"/>
   </div>
