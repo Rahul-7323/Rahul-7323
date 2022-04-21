@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahul-7323
 - 👀 I’m interested in Full Stack Development and Machine Learning
-- 🌱 I’m currently learning VueJS
+- 🌱 I’m currently learning React, GraphQL, Django and Machine Learning
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me, email : roboto7o32oo3@gmail.com
 
