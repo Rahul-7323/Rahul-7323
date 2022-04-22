@@ -7,7 +7,7 @@
 
 <p align="center">
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=Rahul-7323&count_private=true&theme=tokyonight&show_icons=true"/>
-  <img height="180em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-7323&layout=compact&langs_count=10&theme=tokyonight&show_icons=true&exclude_repo=HealthChief"/>
+  <img height="180em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-7323&layout=compact&langs_count=10&theme=tokyonight&show_icons=true&exclude_repo=HealthChief&hide=jupyter%20notebook"/>
 </p>
 
 <!---
